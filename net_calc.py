@@ -65,7 +65,3 @@ if __name__ == "__main__":
     app.run(host='0.0.0.0', port=10000)
 
 
-    pip freeze > requirements.txt
-    git add.
-    git commit -m "net_calc.py".
-    git push.
